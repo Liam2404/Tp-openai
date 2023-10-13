@@ -25,7 +25,7 @@ class ChatGPTService
         $requestData = [
             [
                 'role' => 'system',
-                'content' => 'Réponds uniquement en Français avec un accent du Sud.'
+                'content' => 'Réponds uniquement en Arabe algérien.'
             ],
             [
                 'role' => 'user',
